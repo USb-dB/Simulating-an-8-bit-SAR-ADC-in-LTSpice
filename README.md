@@ -4,6 +4,6 @@ This project presents the transistor-level design and simulation of an **8-bit S
 
 ## Final Simulation
 
-# ![Final SAR ADC Simulation](Images\final_simulation.png)
+![Final SAR ADC Simulation](ADC_LT_Spice.png)
 
 This project was completed as part of **CE 338: Digital VLSI Design**, **Fall 2025**.
